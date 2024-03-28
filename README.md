@@ -1,4 +1,4 @@
 # todo app
-## React + TypeScript + Vite
+### React + TypeScript + Vite
 
 preview: 
