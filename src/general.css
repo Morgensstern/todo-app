@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.2rem;
+}
+
+.neg-button {
+  background-color: red;
+}
+
+button {
+  border: 1px solid darkblue;
+  border: none;
+  padding: 5px 10px;
+  text-align: left;
+  border-radius: 5px;
+  box-shadow: 2px 2px 3px darkblue;
+  background: #0055FF;
+  color: white;
+  display: flex;
+ align-items: center;
+}
+
+input {
+  width: 180px;
+}
+
+button:hover {
+  background: #0055dd;
+}
+
+button:active {
+  background: #0022dd;
+}
+
+.icon {
+  pointer-events: none;
+  user-select: none;
+  margin-right: 5px;
+  padding: 2px;
+  border: 1px solid white;
+  width: 15px;
+  border-radius: 20px;
+  color: white;
+}
+
+hr {
+  width: 100%;
+  margin: 10px 0;
+}
